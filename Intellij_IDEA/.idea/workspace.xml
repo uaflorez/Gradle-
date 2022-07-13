@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edb1be1a-42a8-40f4-9f4f-0b6d2e2093ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Intellij_IDEA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitUdemy/src/test/java/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_15_v20140411.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_15_v20140411.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_15_v20140411.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_eclipse_jetty_jetty_websocket_8_1_15_v20140411.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_testng_testng_6_8_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__org_webbitserver_webbit_0_4_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/scopes/scope_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintic_Java/selenium-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/ProgmClassPoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/out/production/ProgmClassPoo/Ejercicio_1/Cuadrilatero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/out/production/ProgmClassPoo/Ejercicio_1/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_1/Cuadrilatero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_2/Tablero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_3/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_4/Atleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_4/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_5/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_5/Triangulos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/Ejercicio_6/NumeroComplejo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgmClassPoo/src/PruebaChoucairBanco/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/src/main/java/Ejercicio_1/Cuadrilatero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/src/main/java/Ejercicio_1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/src/main/java/Ejercicio_2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classPoo/src/main/java/Ejercicio_2/Tablero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../serenity-junit-starter - Screenplay" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2AfZTFq0u14QOOyrOEzud13Rxy6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/xampp/htdocs/Github/Gradle/Intellij_IDEA&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edb1be1a-42a8-40f4-9f4f-0b6d2e2093ee" name="Changes" comment="" />
+      <created>1655402606035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655402606035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
